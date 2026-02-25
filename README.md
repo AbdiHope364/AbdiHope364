@@ -14,12 +14,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
 
-<!-- 3D ROTATING TITLE - FIXED COLORS FOR BETTER VISIBILITY -->
+<!-- 3D ROTATING TITLE -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=0B2B4F&center=true&vCenter=true&random=false&width=600&lines=Hi+👋+I'm+Abdi+Hope;Full-Stack+Developer;Android+%7C+Java+%7C+Firebase;Web+%7C+React+%7C+Node.js;Problem+Solver;Building+Hand+Man+Work" alt="3D Rotating Typing SVG" />
 </h1>
 
-<!-- GLOWING SUBTITLE - FIXED COLORS -->
+<!-- GLOWING SUBTITLE -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=A+passionate+Full-Stack+Developer;Mobile+%7C+Web+%7C+Cloud;Turning+ideas+into+reality" alt="Glowing Subtitle" />
 </h3>
@@ -31,7 +31,7 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 </div>
 
-<!-- PROFILE VIEWS WITH ANIMATION - FIXED -->
+<!-- PROFILE VIEWS WITH ANIMATION -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdiHope364&label=PROFILE+VIEWS&color=0b2b4f&style=for-the-badge&base=100" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AbdiHope364?label=Followers&style=for-the-badge&color=0b2b4f&logo=github" alt="GitHub followers" />
@@ -53,14 +53,14 @@
 
 <!-- GLOWING CARD FOR ABOUT ME -->
 <div align="center">
-  <table width="90%" style="border: none; background: linear-gradient(145deg, #0b2b4f10, #1e4a7a10); border-radius: 30px; box-shadow: 0 0 30px rgba(11, 43, 79, 0.3); animation: glow 3s infinite;">
+  <table width="90%">
     <tr>
       <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius: 20px; box-shadow: 0 0 30px #f59e0b;" alt="Coding GIF" />
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius: 20px;" alt="Coding GIF" />
       </td>
       <td width="60%" align="left" style="padding: 30px;">
-        <h3 style="color: #f59e0b;">👨‍💻 Who Am I?</h3>
-        <p style="font-size: 16px; line-height: 1.8; color: #333;">
+        <h3>👨‍💻 Who Am I?</h3>
+        <p style="font-size: 16px; line-height: 1.8;">
           <b>Full-Stack Developer</b> with expertise in both <b>Android</b> and <b>Web</b> development.
           <br/><br/>
           🚀 Currently building <b>Hand Man Work</b> - a cross-platform marketplace app connecting workers with customers.
@@ -89,19 +89,19 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200" style="border-radius: 20px; box-shadow: 0 0 30px #0b2b4f; animation: float 3s infinite; padding: 20px;">
+      <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60px" />
         <br/>
         <b>🔭 Working on:</b>
         <br/>Hand Man Work App
       </td>
-      <td align="center" width="200" style="border-radius: 20px; box-shadow: 0 0 30px #f59e0b; animation: float 3s infinite 1s; padding: 20px;">
+      <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px" />
         <br/>
         <b>🌱 Learning:</b>
         <br/>Kotlin & React Native
       </td>
-      <td align="center" width="200" style="border-radius: 20px; box-shadow: 0 0 30px #0b2b4f; animation: float 3s infinite 2s; padding: 20px;">
+      <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60px" />
         <br/>
         <b>💬 Ask me about:</b>
@@ -155,7 +155,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0b2b4f" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0b2b4f" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0b2b4f" />
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white&labelColor=0b2b4f" />
 </p>
 
 <!-- WEB DEVELOPMENT -->
@@ -170,8 +169,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0b2b4f" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0b2b4f" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0b2b4f" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0b2b4f" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0b2b4f" />
 </p>
 
 <!-- DATABASES & TOOLS -->
@@ -185,7 +182,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0b2b4f" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0b2b4f" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0b2b4f" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0b2b4f" />
 </p>
 
 <!-- 3D STATS CARDS -->
@@ -273,41 +269,3 @@
   <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
-
-<!-- CUSTOM CSS ANIMATIONS (EMBEDDED IN MARKDOWN) -->
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-20px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  @keyframes glow {
-    0% { box-shadow: 0 0 10px #0b2b4f; }
-    50% { box-shadow: 0 0 50px #f59e0b; }
-    100% { box-shadow: 0 0 10px #0b2b4f; }
-  }
-  
-  @keyframes rotate {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  
-  img {
-    transition: all 0.5s ease;
-  }
-  
-  img:hover {
-    transform: scale(1.1) rotate(5deg);
-    filter: drop-shadow(0 0 20px #f59e0b);
-  }
-  
-  /* Fix for text visibility */
-  h1, h2, h3, p, b {
-    color: #0b2b4f !important;
-  }
-  
-  table, td, tr {
-    background: transparent !important;
-  }
-</style>
